@@ -8,7 +8,7 @@ about: Looking for mods to help make accounts/answer questions.
 
 1. Do you want to be a mod?
 
-yes ()
+yes (x)
 
 No ()
 
@@ -16,10 +16,10 @@ No ()
 
 yes ()
 
-No ()
+No (x)
 
 3. What makes you more suitable over other candidates?
 
-delete this and type here
+I want to make a ccount to help my sister who is in the hospital and all she wants is a maxed out prodigy account
 
 
